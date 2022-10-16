@@ -3,6 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-theme: jekyll-theme-modernist
+theme: modernist
 ---
 # Welcome to Arduino discord help page.
